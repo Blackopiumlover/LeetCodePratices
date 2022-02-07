@@ -1,5 +1,5 @@
 /**
- * udging if the number is power of 2, there are two approaches to the answer:
+ * Judging if the number is power of 2, there are two approaches to the answer:
  *      1. If the number is power of 2, then the half of this number is also power of 2.
  *      2. The binary code of that number n should only have one "1", that means n & (n - 1) == 0
  */
